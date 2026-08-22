@@ -1,0 +1,802 @@
+_anim/Ball Hog.asm	Objects/1E, 20 Badnik - Ball Hog and Cannonball/anim/Ball Hog.asm
+_anim/Basaran.asm	Objects/55 Badnik - Basaran/anim/Basaran.asm
+_anim/Bomb Enemy.asm	Objects/5F Badnik - Walking Bomb/anim/Bomb Enemy.asm
+_anim/Bubbles.asm	Objects/64 LZ Air Bubbles/anim/Bubbles.asm
+_anim/Bumper.asm	Objects/47 SYZ Bumper/anim/Bumper.asm
+_anim/Burning Grass.asm	Objects/2F, 35 MZ Large Grassy Platforms and Burning Grass/anim/Burning Grass.asm
+_anim/Burrobot.asm	Objects/2D Badnik - Burrobot/anim/Burrobot.asm
+_anim/Buzz Bomber Missile.asm	Objects/22, 23 Badnik - Buzz Bomber and Missile/anim/Buzz Bomber Missile.asm
+_anim/Buzz Bomber.asm	Objects/22, 23 Badnik - Buzz Bomber and Missile/anim/Buzz Bomber.asm
+_anim/Chopper.asm	Objects/2B Badnik - Chopper/anim/Chopper.asm
+_anim/Continue Screen Sonic.asm	Objects/80, 81 Continue Screen Elements and Sonic/anim/Continue Screen Sonic.asm
+_anim/Crabmeat.asm	Objects/1F Badnik - Crabmeat/anim/Crabmeat.asm
+_anim/Drowning Countdown.asm	Objects/0A LZ Drowning Countdown/anim/Drowning Countdown.asm
+_anim/Eggman - Scrap Brain 2 & Final.asm	Objects/82, 83 SBZ Eggman Cutscene and Crumbling Floor/anim/Eggman - Scrap Brain 2 & Final.asm
+_anim/Eggman.asm	Objects/shared/Boss/anim/Eggman.asm
+_anim/Electrocuter.asm	Objects/6E SBZ Electrocuter/anim/Electrocuter.asm
+_anim/Ending Sequence Sonic.asm	Objects/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo/anim/Ending Sequence Sonic.asm
+_anim/FZ Eggman in Ship.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/anim/FZ Eggman in Ship.asm
+_anim/Fireballs.asm	Objects/13, 14 MZ, SLZ Fire Balls and Maker/anim/Fireballs.asm
+_anim/Flamethrower.asm	Objects/6D SBZ Flamethrower/anim/Flamethrower.asm
+_anim/Flapping Door.asm	Objects/0C LZ Flapping Door/anim/Flapping Door.asm
+_anim/Harpoon.asm	Objects/16 LZ Harpoon/anim/Harpoon.asm
+_anim/Jaws.asm	Objects/2C Badnik - Jaws/anim/Jaws.asm
+_anim/Lava Geyser.asm	Objects/4C, 4D MZ Lava Geyser and Maker/anim/Lava Geyser.asm
+_anim/Monitor.asm	Objects/26, 2E Monitors and Power-Ups/anim/Monitor.asm
+_anim/Moto Bug.asm	Objects/40 Badnik - Moto Bug/anim/Moto Bug.asm
+_anim/Newtron.asm	Objects/42 Badnik - Newtron/anim/Newtron.asm
+_anim/Orbinaut.asm	Objects/60 Badnik - Orbinaut/anim/Orbinaut.asm
+_anim/Plasma Ball Launcher.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/anim/Plasma Ball Launcher.asm
+_anim/Plasma Balls.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/anim/Plasma Balls.asm
+_anim/Press Start and TM.asm	Objects/0E, 0F Title Screen - Sonic, Press Start, TM/anim/Press Start and TM.asm
+_anim/Prison Capsule.asm	Objects/3E Prison Capsule/anim/Prison Capsule.asm
+_anim/Rings.asm	Objects/25, 37 Rings/anim/Rings.asm
+_anim/Roller.asm	Objects/43 Badnik - Roller/anim/Roller.asm
+_anim/SBZ Small Door.asm	Objects/2A SBZ Small Door/anim/SBZ Small Door.asm
+_anim/SBZ Spin Platform Conveyor.asm	Objects/6F SBZ Spin Platform Conveyor/anim/SBZ Spin Platform Conveyor.asm
+_anim/SBZ Spinning Platforms.asm	Objects/69 SBZ Spinning Platforms and Trapdoors/anim/SBZ Spinning Platforms.asm
+_anim/SBZ Vanishing Platforms.asm	Objects/6C SBZ Vanishing Platforms/anim/SBZ Vanishing Platforms.asm
+_anim/Shield and Invincibility.asm	Objects/38 Shield and Invincibility/anim/Shield and Invincibility.asm
+_anim/Signpost.asm	Objects/0D Signpost/anim/Signpost.asm
+_anim/Sonic.asm	Objects/01 Sonic/anim/Sonic.asm
+_anim/Special Stage Entry (Unused).asm	Objects/4A Unused - Special Stage Entry/anim/Special Stage Entry (Unused).asm
+_anim/Springs.asm	Objects/41 Springs/anim/Springs.asm
+_anim/Title Screen Sonic.asm	Objects/0E, 0F Title Screen - Sonic, Press Start, TM/anim/Title Screen Sonic.asm
+_anim/Try Again & End Eggman.asm	Objects/8B, 8C Try Again, End Eggman, End Emeralds/anim/Try Again & End Eggman.asm
+_anim/Wall of Lava.asm	Objects/4E MZ Wall of Lava/anim/Wall of Lava.asm
+_anim/Water Splash.asm	Objects/08 LZ Water Splash/anim/Water Splash.asm
+_anim/Waterfalls.asm	Objects/65 LZ Waterfalls/anim/Waterfalls.asm
+_anim/Yadrin.asm	Objects/50 Badnik - Yadrin/anim/Yadrin.asm
+_inc/AnimateLevelGfx.asm	Libraries/AnimateLevelGfx.asm
+_inc/BuildSprites.asm	Libraries/BuildSprites.asm
+_inc/ConvertCollisionArray (Unused).asm	Libraries/ConvertCollisionArray (Unused).asm
+_inc/Decompression/Enigma Decompression.asm	Libraries/Decompression/Enigma Decompression.asm
+_inc/Decompression/Kosinski Decompression.asm	Libraries/Decompression/Kosinski Decompression.asm
+_inc/Decompression/Nemesis Decompression.asm	Libraries/Decompression/Nemesis Decompression.asm
+_inc/DeformLayers (REV00).asm	Libraries/DeformLayers (REV00).asm
+_inc/DeformLayers (REV01).asm	Libraries/DeformLayers (REV01).asm
+_inc/DynamicLevelEvents.asm	Libraries/DynamicLevelEvents.asm
+_inc/ExecuteObjects.asm	Libraries/ExecuteObjects.asm
+_inc/HUD Update.asm	Libraries/HUD Update.asm
+_inc/LZWaterFeatures.asm	Libraries/LZWaterFeatures.asm
+_inc/Level Drawing (REV00).asm	Libraries/Level Drawing (REV00).asm
+_inc/Level Drawing (REV01).asm	Libraries/Level Drawing (REV01).asm
+_inc/LevelHeaders.asm	Libraries/LevelHeaders.asm
+_inc/LevelLayoutLoad.asm	Libraries/LevelLayoutLoad.asm
+_inc/LevelOrder.asm	Libraries/LevelOrder.asm
+_inc/LevelSizeArray.asm	Libraries/LevelSizeArray.asm
+_inc/LevelSizeLoad & BgScrollSpeed.asm	Libraries/LevelSizeLoad & BgScrollSpeed.asm
+_inc/MoveSonicInDemo.asm	Libraries/MoveSonicInDemo.asm
+_inc/ObjPosLoad.asm	Libraries/ObjPosLoad.asm
+_inc/Object Pointers.asm	Libraries/Object Pointers.asm
+_inc/Oscillatory Routines.asm	Libraries/Oscillatory Routines.asm
+_inc/Palette Fading.asm	Libraries/Palette Fading.asm
+_inc/Palette Index.asm	Libraries/Palette Index.asm
+_inc/PaletteCycle.asm	Libraries/PaletteCycle.asm
+_inc/Pattern Load Cues.asm	Libraries/Pattern Load Cues.asm
+_inc/PauseGame.asm	Libraries/PauseGame.asm
+_inc/Queue Sound Routines.asm	Libraries/Queue Sound Routines.asm
+_inc/ScrollHoriz & ScrollVertical.asm	Libraries/ScrollHoriz & ScrollVertical.asm
+_inc/Special Stage Background & Palette Cycle.asm	Game Modes/Special Stage/Special Stage.asm
+_inc/Special Stage Loading & Drawing.asm	Game Modes/Special Stage/Special Stage Rendering.asm
+_inc/Special Stage Mappings & VRAM Pointers.asm	Game Modes/Special Stage/Special Stage Rendering.asm
+_incObj/01 Sonic.asm	Objects/01 Sonic/01 Sonic.asm
+_incObj/08 LZ Water Splash.asm	Objects/08 LZ Water Splash/08 LZ Water Splash.asm
+_incObj/09 Sonic in Special Stage.asm	Objects/09 Sonic in Special Stage/09 Sonic in Special Stage.asm
+_incObj/0A LZ Drowning Countdown.asm	Objects/0A LZ Drowning Countdown/0A LZ Drowning Countdown.asm
+_incObj/0B LZ Pole that Breaks.asm	Objects/0B LZ Pole that Breaks/0B LZ Pole that Breaks.asm
+_incObj/0C LZ Flapping Door.asm	Objects/0C LZ Flapping Door/0C LZ Flapping Door.asm
+_incObj/0D Signpost.asm	Objects/0D Signpost/0D Signpost.asm
+_incObj/0E, 0F Title Screen - Sonic, Press Start, TM.asm	Objects/0E, 0F Title Screen - Sonic, Press Start, TM/0E, 0F Title Screen - Sonic, Press Start, TM.asm
+_incObj/10 Unused - Blank.asm	Objects/10 Unused - Blank/10 Unused - Blank.asm
+_incObj/11 GHZ Bridge.asm	Objects/11 GHZ Bridge/11 GHZ Bridge.asm
+_incObj/12 SYZ Search Light.asm	Objects/12 SYZ Search Light/12 SYZ Search Light.asm
+_incObj/13, 14 MZ, SLZ Fire Balls and Maker.asm	Objects/13, 14 MZ, SLZ Fire Balls and Maker/13, 14 MZ, SLZ Fire Balls and Maker.asm
+_incObj/15 Swinging Platforms.asm	Objects/15 Swinging Platforms/15 Swinging Platforms.asm
+_incObj/16 LZ Harpoon.asm	Objects/16 LZ Harpoon/16 LZ Harpoon.asm
+_incObj/17 GHZ Spiked Pole Helix.asm	Objects/17 GHZ Spiked Pole Helix/17 GHZ Spiked Pole Helix.asm
+_incObj/18 Platforms.asm	Objects/18 Platforms/18 Platforms.asm
+_incObj/19 Unused - Blank.asm	Objects/19 Unused - Blank/19 Unused - Blank.asm
+_incObj/1A, 53 Collapsing Ledges and Floors.asm	Objects/1A, 53 Collapsing Ledges and Floors/1A, 53 Collapsing Ledges and Floors.asm
+_incObj/1B LZ Water Surface.asm	Objects/1B LZ Water Surface/1B LZ Water Surface.asm
+_incObj/1C GHZ, SYZ Scenery.asm	Objects/1C GHZ, SYZ Scenery/1C GHZ, SYZ Scenery.asm
+_incObj/1D Unused - Switch.asm	Objects/1D Unused - Switch/1D Unused - Switch.asm
+_incObj/1E, 20 Badnik - Ball Hog and Cannonball.asm	Objects/1E, 20 Badnik - Ball Hog and Cannonball/1E, 20 Badnik - Ball Hog and Cannonball.asm
+_incObj/1F Badnik - Crabmeat.asm	Objects/1F Badnik - Crabmeat/1F Badnik - Crabmeat.asm
+_incObj/21 HUD.asm	Objects/21 HUD/21 HUD.asm
+_incObj/22, 23 Badnik - Buzz Bomber and Missile.asm	Objects/22, 23 Badnik - Buzz Bomber and Missile/22, 23 Badnik - Buzz Bomber and Missile.asm
+_incObj/24 Unused - Small Explosion.asm	Objects/24 Unused - Small Explosion/24 Unused - Small Explosion.asm
+_incObj/25, 37 Rings.asm	Objects/25, 37 Rings/25, 37 Rings.asm
+_incObj/26, 2E Monitors and Power-Ups.asm	Objects/26, 2E Monitors and Power-Ups/26, 2E Monitors and Power-Ups.asm
+_incObj/27, 3F Explosions.asm	Objects/27, 3F Explosions/27, 3F Explosions.asm
+_incObj/28, 29 Animals and Points.asm	Objects/28, 29 Animals and Points/28, 29 Animals and Points.asm
+_incObj/2A SBZ Small Door.asm	Objects/2A SBZ Small Door/2A SBZ Small Door.asm
+_incObj/2B Badnik - Chopper.asm	Objects/2B Badnik - Chopper/2B Badnik - Chopper.asm
+_incObj/2C Badnik - Jaws.asm	Objects/2C Badnik - Jaws/2C Badnik - Jaws.asm
+_incObj/2D Badnik - Burrobot.asm	Objects/2D Badnik - Burrobot/2D Badnik - Burrobot.asm
+_incObj/2F, 35 MZ Large Grassy Platforms and Burning Grass.asm	Objects/2F, 35 MZ Large Grassy Platforms and Burning Grass/2F, 35 MZ Large Grassy Platforms and Burning Grass.asm
+_incObj/30 MZ Large Green Glass Blocks.asm	Objects/30 MZ Large Green Glass Blocks/30 MZ Large Green Glass Blocks.asm
+_incObj/31 MZ Chained Stompers.asm	Objects/31 MZ Chained Stompers/31 MZ Chained Stompers.asm
+_incObj/32 Button.asm	Objects/32 Button/32 Button.asm
+_incObj/33 MZ, LZ Pushable Blocks.asm	Objects/33 MZ, LZ Pushable Blocks/33 MZ, LZ Pushable Blocks.asm
+_incObj/34 Title Cards.asm	Objects/34 Title Cards/34 Title Cards.asm
+_incObj/36 Spikes.asm	Objects/36 Spikes/36 Spikes.asm
+_incObj/38 Shield and Invincibility.asm	Objects/38 Shield and Invincibility/38 Shield and Invincibility.asm
+_incObj/39 Game Over.asm	Objects/39 Game Over/39 Game Over.asm
+_incObj/3A Got Through Card.asm	Objects/3A Got Through Card/3A Got Through Card.asm
+_incObj/3B GHZ Purple Rock.asm	Objects/3B GHZ Purple Rock/3B GHZ Purple Rock.asm
+_incObj/3C GHZ, SLZ Smashable Wall.asm	Objects/3C GHZ, SLZ Smashable Wall/3C GHZ, SLZ Smashable Wall.asm
+_incObj/3D, 48 Boss - GHZ Main and Wrecking Ball.asm	Objects/3D, 48 Boss - GHZ Main and Wrecking Ball/3D, 48 Boss - GHZ Main and Wrecking Ball.asm
+_incObj/3E Prison Capsule.asm	Objects/3E Prison Capsule/3E Prison Capsule.asm
+_incObj/40 Badnik - Moto Bug.asm	Objects/40 Badnik - Moto Bug/40 Badnik - Moto Bug.asm
+_incObj/41 Springs.asm	Objects/41 Springs/41 Springs.asm
+_incObj/42 Badnik - Newtron.asm	Objects/42 Badnik - Newtron/42 Badnik - Newtron.asm
+_incObj/43 Badnik - Roller.asm	Objects/43 Badnik - Roller/43 Badnik - Roller.asm
+_incObj/44 GHZ Edge Walls.asm	Objects/44 GHZ Edge Walls/44 GHZ Edge Walls.asm
+_incObj/45 Unused - MZ Sideways Stomper.asm	Objects/45 Unused - MZ Sideways Stomper/45 Unused - MZ Sideways Stomper.asm
+_incObj/46 MZ Bricks.asm	Objects/46 MZ Bricks/46 MZ Bricks.asm
+_incObj/47 SYZ Bumper.asm	Objects/47 SYZ Bumper/47 SYZ Bumper.asm
+_incObj/49 GHZ Waterfall Sound.asm	Objects/49 GHZ Waterfall Sound/49 GHZ Waterfall Sound.asm
+_incObj/4A Unused - Special Stage Entry.asm	Objects/4A Unused - Special Stage Entry/4A Unused - Special Stage Entry.asm
+_incObj/4B, 7C Giant Ring and Flash.asm	Objects/4B, 7C Giant Ring and Flash/4B, 7C Giant Ring and Flash.asm
+_incObj/4C, 4D MZ Lava Geyser and Maker.asm	Objects/4C, 4D MZ Lava Geyser and Maker/4C, 4D MZ Lava Geyser and Maker.asm
+_incObj/4E MZ Wall of Lava.asm	Objects/4E MZ Wall of Lava/4E MZ Wall of Lava.asm
+_incObj/4F Unused - Blank.asm	Objects/4F Unused - Blank/4F Unused - Blank.asm
+_incObj/50 Badnik - Yadrin.asm	Objects/50 Badnik - Yadrin/50 Badnik - Yadrin.asm
+_incObj/51 MZ Smashable Green Block.asm	Objects/51 MZ Smashable Green Block/51 MZ Smashable Green Block.asm
+_incObj/52 Moving Blocks.asm	Objects/52 Moving Blocks/52 Moving Blocks.asm
+_incObj/54 MZ Invisible Lava Tag.asm	Objects/54 MZ Invisible Lava Tag/54 MZ Invisible Lava Tag.asm
+_incObj/55 Badnik - Basaran.asm	Objects/55 Badnik - Basaran/55 Badnik - Basaran.asm
+_incObj/56 SYZ, SLZ Floating Blocks and LZ Doors.asm	Objects/56 SYZ, SLZ Floating Blocks and LZ Doors/56 SYZ, SLZ Floating Blocks and LZ Doors.asm
+_incObj/57 SYZ, LZ Spiked Ball and Chain.asm	Objects/57 SYZ, LZ Spiked Ball and Chain/57 SYZ, LZ Spiked Ball and Chain.asm
+_incObj/58 SYZ Big Spiked Ball.asm	Objects/58 SYZ Big Spiked Ball/58 SYZ Big Spiked Ball.asm
+_incObj/59 SLZ Elevators.asm	Objects/59 SLZ Elevators/59 SLZ Elevators.asm
+_incObj/5A SLZ Circling Platform.asm	Objects/5A SLZ Circling Platform/5A SLZ Circling Platform.asm
+_incObj/5B SLZ Staircase.asm	Objects/5B SLZ Staircase/5B SLZ Staircase.asm
+_incObj/5C SLZ Foreground Pylon.asm	Objects/5C SLZ Foreground Pylon/5C SLZ Foreground Pylon.asm
+_incObj/5D SLZ Fan.asm	Objects/5D SLZ Fan/5D SLZ Fan.asm
+_incObj/5E SLZ Seesaw.asm	Objects/5E SLZ Seesaw/5E SLZ Seesaw.asm
+_incObj/5F Badnik - Walking Bomb.asm	Objects/5F Badnik - Walking Bomb/5F Badnik - Walking Bomb.asm
+_incObj/60 Badnik - Orbinaut.asm	Objects/60 Badnik - Orbinaut/60 Badnik - Orbinaut.asm
+_incObj/61 LZ Blocks.asm	Objects/61 LZ Blocks/61 LZ Blocks.asm
+_incObj/62 LZ Gargoyle.asm	Objects/62 LZ Gargoyle/62 LZ Gargoyle.asm
+_incObj/63 LZ Conveyor.asm	Objects/63 LZ Conveyor/63 LZ Conveyor.asm
+_incObj/64 LZ Air Bubbles.asm	Objects/64 LZ Air Bubbles/64 LZ Air Bubbles.asm
+_incObj/65 LZ Waterfalls.asm	Objects/65 LZ Waterfalls/65 LZ Waterfalls.asm
+_incObj/66 SBZ Rotating Junction.asm	Objects/66 SBZ Rotating Junction/66 SBZ Rotating Junction.asm
+_incObj/67 SBZ Running Disc.asm	Objects/67 SBZ Running Disc/67 SBZ Running Disc.asm
+_incObj/68 SBZ Conveyor Belt.asm	Objects/68 SBZ Conveyor Belt/68 SBZ Conveyor Belt.asm
+_incObj/69 SBZ Spinning Platforms and Trapdoors.asm	Objects/69 SBZ Spinning Platforms and Trapdoors/69 SBZ Spinning Platforms and Trapdoors.asm
+_incObj/6A SBZ Saws and Pizza Cutters.asm	Objects/6A SBZ Saws and Pizza Cutters/6A SBZ Saws and Pizza Cutters.asm
+_incObj/6B SBZ Stomper and Sliding Door.asm	Objects/6B SBZ Stomper and Sliding Door/6B SBZ Stomper and Sliding Door.asm
+_incObj/6C SBZ Vanishing Platforms.asm	Objects/6C SBZ Vanishing Platforms/6C SBZ Vanishing Platforms.asm
+_incObj/6D SBZ Flamethrower.asm	Objects/6D SBZ Flamethrower/6D SBZ Flamethrower.asm
+_incObj/6E SBZ Electrocuter.asm	Objects/6E SBZ Electrocuter/6E SBZ Electrocuter.asm
+_incObj/6F SBZ Spin Platform Conveyor.asm	Objects/6F SBZ Spin Platform Conveyor/6F SBZ Spin Platform Conveyor.asm
+_incObj/70 SBZ Girder Block.asm	Objects/70 SBZ Girder Block/70 SBZ Girder Block.asm
+_incObj/71 Invisible Solid Barriers.asm	Objects/71 Invisible Solid Barriers/71 Invisible Solid Barriers.asm
+_incObj/72 SBZ Teleporter.asm	Objects/72 SBZ Teleporter/72 SBZ Teleporter.asm
+_incObj/73, 74 Boss - MZ Main and Fire.asm	Objects/73, 74 Boss - MZ Main and Fire/73, 74 Boss - MZ Main and Fire.asm
+_incObj/75, 76 Boss - SYZ Main and Blocks.asm	Objects/75, 76 Boss - SYZ Main and Blocks/75, 76 Boss - SYZ Main and Blocks.asm
+_incObj/77 Boss - LZ Main.asm	Objects/77 Boss - LZ Main/77 Boss - LZ Main.asm
+_incObj/78 Badnik - Caterkiller.asm	Objects/78 Badnik - Caterkiller/78 Badnik - Caterkiller.asm
+_incObj/79 Lamppost.asm	Objects/79 Lamppost/79 Lamppost.asm
+_incObj/7A, 7B Boss - SLZ Main and Spike Balls.asm	Objects/7A, 7B Boss - SLZ Main and Spike Balls/7A, 7B Boss - SLZ Main and Spike Balls.asm
+_incObj/7D Hidden Bonuses.asm	Objects/7D Hidden Bonuses/7D Hidden Bonuses.asm
+_incObj/7E, 7F Special Stage Results and Chaos Emeralds.asm	Objects/7E, 7F Special Stage Results and Chaos Emeralds/7E, 7F Special Stage Results and Chaos Emeralds.asm
+_incObj/80, 81 Continue Screen Elements and Sonic.asm	Objects/80, 81 Continue Screen Elements and Sonic/80, 81 Continue Screen Elements and Sonic.asm
+_incObj/82, 83 SBZ Eggman Cutscene and Crumbling Floor.asm	Objects/82, 83 SBZ Eggman Cutscene and Crumbling Floor/82, 83 SBZ Eggman Cutscene and Crumbling Floor.asm
+_incObj/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls.asm
+_incObj/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo.asm	Objects/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo.asm
+_incObj/8A Credits and Sonic Team Presents.asm	Objects/8A Credits and Sonic Team Presents/8A Credits and Sonic Team Presents.asm
+_incObj/8B, 8C Try Again, End Eggman, End Emeralds.asm	Objects/8B, 8C Try Again, End Eggman, End Emeralds/8B, 8C Try Again, End Eggman, End Emeralds.asm
+_incObj/DebugMode.asm	Objects/shared/DebugMode.asm
+_incObj/Sonic AnglePos.asm	Objects/01 Sonic/Sonic AnglePos.asm
+_incObj/Sonic Collision.asm	Objects/01 Sonic/Sonic Collision.asm
+_incObj/Sonic ReactToItem.asm	Objects/01 Sonic/Sonic ReactToItem.asm
+_incObj/sub AddPoints.asm	Objects/shared/sub AddPoints.asm
+_incObj/sub AnimateSprite.asm	Objects/shared/sub AnimateSprite.asm
+_incObj/sub BossDefeated & BossMove.asm	Objects/shared/sub BossDefeated & BossMove.asm
+_incObj/sub CalcAngle.asm	Objects/shared/sub CalcAngle.asm
+_incObj/sub CalcSine.asm	Objects/shared/sub CalcSine.asm
+_incObj/sub CalcSqrt.asm	Objects/shared/sub CalcSqrt.asm
+_incObj/sub ChkObjectVisible.asm	Objects/shared/sub ChkObjectVisible.asm
+_incObj/sub DeleteObject.asm	Objects/shared/sub DeleteObject.asm
+_incObj/sub DisplaySprite.asm	Objects/shared/sub DisplaySprite.asm
+_incObj/sub ExitPlatform.asm	Objects/shared/sub ExitPlatform.asm
+_incObj/sub FindFreeObj.asm	Objects/shared/sub FindFreeObj.asm
+_incObj/sub FindNearestTile & FindFloor & FindWall.asm	Objects/shared/sub FindNearestTile & FindFloor & FindWall.asm
+_incObj/sub MvSonicOnPtfm.asm	Objects/shared/sub MvSonicOnPtfm.asm
+_incObj/sub ObjFloorDist.asm	Objects/shared/sub ObjFloorDist.asm
+_incObj/sub ObjectFall & SpeedToPos.asm	Objects/shared/sub ObjectFall & SpeedToPos.asm
+_incObj/sub PlatformObject & SlopeObject.asm	Objects/shared/sub PlatformObject & SlopeObject.asm
+_incObj/sub RandomNumber.asm	Objects/shared/sub RandomNumber.asm
+_incObj/sub RememberState.asm	Objects/shared/sub RememberState.asm
+_incObj/sub ResumeMusic.asm	Objects/shared/sub ResumeMusic.asm
+_incObj/sub SmashObject.asm	Objects/shared/sub SmashObject.asm
+_incObj/sub SolidObject.asm	Objects/shared/sub SolidObject.asm
+_incObj/sub SolidWall.asm	Objects/shared/sub SolidWall.asm
+_maps/Animals 1.asm	Objects/28, 29 Animals and Points/maps/Animals 1.asm
+_maps/Animals 2.asm	Objects/28, 29 Animals and Points/maps/Animals 2.asm
+_maps/Animals 3.asm	Objects/28, 29 Animals and Points/maps/Animals 3.asm
+_maps/Ball Hog.asm	Objects/1E, 20 Badnik - Ball Hog and Cannonball/maps/Ball Hog.asm
+_maps/Basaran.asm	Objects/55 Badnik - Basaran/maps/Basaran.asm
+_maps/Big Spiked Ball.asm	Objects/58 SYZ Big Spiked Ball/maps/Big Spiked Ball.asm
+_maps/Bomb Enemy.asm	Objects/5F Badnik - Walking Bomb/maps/Bomb Enemy.asm
+_maps/Boss Items.asm	Objects/shared/Boss/maps/Boss Items.asm
+_maps/Bridge.asm	Objects/11 GHZ Bridge/maps/Bridge.asm
+_maps/Bubbles and Drowning Countdown.asm	Objects/64 LZ Air Bubbles/maps/Bubbles and Drowning Countdown.asm
+_maps/Bumper.asm	Objects/47 SYZ Bumper/maps/Bumper.asm
+_maps/Burrobot.asm	Objects/2D Badnik - Burrobot/maps/Burrobot.asm
+_maps/Button.asm	Objects/32 Button/maps/Button.asm
+_maps/Buzz Bomber Missile.asm	Objects/22, 23 Badnik - Buzz Bomber and Missile/maps/Buzz Bomber Missile.asm
+_maps/Buzz Bomber.asm	Objects/22, 23 Badnik - Buzz Bomber and Missile/maps/Buzz Bomber.asm
+_maps/Caterkiller.asm	Objects/78 Badnik - Caterkiller/maps/Caterkiller.asm
+_maps/Chained Stompers.asm	Objects/31 MZ Chained Stompers/maps/Chained Stompers.asm
+_maps/Chopper.asm	Objects/2B Badnik - Chopper/maps/Chopper.asm
+_maps/Collapsing Floors.asm	Objects/1A, 53 Collapsing Ledges and Floors/maps/Collapsing Floors.asm
+_maps/Collapsing Ledge.asm	Objects/1A, 53 Collapsing Ledges and Floors/maps/Collapsing Ledge.asm
+_maps/Continue Screen.asm	Objects/80, 81 Continue Screen Elements and Sonic/maps/Continue Screen.asm
+_maps/Crabmeat.asm	Objects/1F Badnik - Crabmeat/maps/Crabmeat.asm
+_maps/Credits.asm	Objects/8A Credits and Sonic Team Presents/maps/Credits.asm
+_maps/Eggman - Scrap Brain 2.asm	Objects/82, 83 SBZ Eggman Cutscene and Crumbling Floor/maps/Eggman - Scrap Brain 2.asm
+_maps/Eggman.asm	Objects/shared/Boss/maps/Eggman.asm
+_maps/Electrocuter.asm	Objects/6E SBZ Electrocuter/maps/Electrocuter.asm
+_maps/Ending Sequence Emeralds.asm	Objects/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo/maps/Ending Sequence Emeralds.asm
+_maps/Ending Sequence STH.asm	Objects/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo/maps/Ending Sequence STH.asm
+_maps/Ending Sequence Sonic.asm	Objects/87, 88, 89 Ending Sequence Sonic, Emeralds, Logo/maps/Ending Sequence Sonic.asm
+_maps/Explosions.asm	Objects/27, 3F Explosions/maps/Explosions.asm
+_maps/FZ Damaged Eggmobile.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/maps/FZ Damaged Eggmobile.asm
+_maps/FZ Eggman's Cylinders.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/maps/FZ Eggman's Cylinders.asm
+_maps/FZ Eggmobile Legs.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/maps/FZ Eggmobile Legs.asm
+_maps/Fan.asm	Objects/5D SLZ Fan/maps/Fan.asm
+_maps/Fireballs.asm	Objects/13, 14 MZ, SLZ Fire Balls and Maker/maps/Fireballs.asm
+_maps/Flamethrower.asm	Objects/6D SBZ Flamethrower/maps/Flamethrower.asm
+_maps/Flapping Door.asm	Objects/0C LZ Flapping Door/maps/Flapping Door.asm
+_maps/Floating Blocks and Doors.asm	Objects/56 SYZ, SLZ Floating Blocks and LZ Doors/maps/Floating Blocks and Doors.asm
+_maps/GHZ Ball.asm	Objects/19 Unused - Blank/maps/GHZ Ball.asm
+_maps/GHZ Edge Walls.asm	Objects/44 GHZ Edge Walls/maps/GHZ Edge Walls.asm
+_maps/Game Over.asm	Objects/39 Game Over/maps/Game Over.asm
+_maps/Gargoyle.asm	Objects/62 LZ Gargoyle/maps/Gargoyle.asm
+_maps/Giant Ring.asm	Objects/4B, 7C Giant Ring and Flash/maps/Giant Ring.asm
+_maps/Girder Block.asm	Objects/70 SBZ Girder Block/maps/Girder Block.asm
+_maps/HUD.asm	Objects/21 HUD/maps/HUD.asm
+_maps/Harpoon.asm	Objects/16 LZ Harpoon/maps/Harpoon.asm
+_maps/Hidden Bonuses.asm	Objects/7D Hidden Bonuses/maps/Hidden Bonuses.asm
+_maps/Invisible Barriers.asm	Objects/71 Invisible Solid Barriers/maps/Invisible Barriers.asm
+_maps/Jaws.asm	Objects/2C Badnik - Jaws/maps/Jaws.asm
+_maps/LZ Blocks.asm	Objects/61 LZ Blocks/maps/LZ Blocks.asm
+_maps/LZ Conveyor.asm	Objects/63 LZ Conveyor/maps/LZ Conveyor.asm
+_maps/Lamppost.asm	Objects/79 Lamppost/maps/Lamppost.asm
+_maps/Lava Geyser.asm	Objects/4C, 4D MZ Lava Geyser and Maker/maps/Lava Geyser.asm
+_maps/Lava Tag.asm	Objects/54 MZ Invisible Lava Tag/maps/Lava Tag.asm
+_maps/Light.asm	Objects/12 SYZ Search Light/maps/Light.asm
+_maps/MZ Bricks.asm	Objects/46 MZ Bricks/maps/MZ Bricks.asm
+_maps/MZ Large Grassy Platforms.asm	Objects/2F, 35 MZ Large Grassy Platforms and Burning Grass/maps/MZ Large Grassy Platforms.asm
+_maps/MZ Large Green Glass Blocks.asm	Objects/30 MZ Large Green Glass Blocks/maps/MZ Large Green Glass Blocks.asm
+_maps/Monitor.asm	Objects/26, 2E Monitors and Power-Ups/maps/Monitor.asm
+_maps/Moto Bug.asm	Objects/40 Badnik - Moto Bug/maps/Moto Bug.asm
+_maps/Moving Blocks (LZ).asm	Objects/52 Moving Blocks/maps/Moving Blocks (LZ).asm
+_maps/Moving Blocks (MZ and SBZ).asm	Objects/52 Moving Blocks/maps/Moving Blocks (MZ and SBZ).asm
+_maps/Newtron.asm	Objects/42 Badnik - Newtron/maps/Newtron.asm
+_maps/Orbinaut.asm	Objects/60 Badnik - Orbinaut/maps/Orbinaut.asm
+_maps/Plasma Ball Launcher.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/maps/Plasma Ball Launcher.asm
+_maps/Plasma Balls.asm	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/maps/Plasma Balls.asm
+_maps/Platforms (GHZ).asm	Objects/18 Platforms/maps/Platforms (GHZ).asm
+_maps/Platforms (SLZ).asm	Objects/18 Platforms/maps/Platforms (SLZ).asm
+_maps/Platforms (SYZ).asm	Objects/18 Platforms/maps/Platforms (SYZ).asm
+_maps/Platforms (unused).asm	Objects/18 Platforms/maps/Platforms (unused).asm
+_maps/Points.asm	Objects/28, 29 Animals and Points/maps/Points.asm
+_maps/Pole that Breaks.asm	Objects/0B LZ Pole that Breaks/maps/Pole that Breaks.asm
+_maps/Press Start and TM.asm	Objects/0E, 0F Title Screen - Sonic, Press Start, TM/maps/Press Start and TM.asm
+_maps/Prison Capsule.asm	Objects/3E Prison Capsule/maps/Prison Capsule.asm
+_maps/Purple Rock.asm	Objects/3B GHZ Purple Rock/maps/Purple Rock.asm
+_maps/Pushable Blocks.asm	Objects/33 MZ, LZ Pushable Blocks/maps/Pushable Blocks.asm
+_maps/Pylon.asm	Objects/5C SLZ Foreground Pylon/maps/Pylon.asm
+_maps/Ring Flash.asm	Objects/4B, 7C Giant Ring and Flash/maps/Ring Flash.asm
+_maps/Rings (REV00).asm	Objects/25, 37 Rings/maps/Rings (REV00).asm
+_maps/Rings (REV01).asm	Objects/25, 37 Rings/maps/Rings (REV01).asm
+_maps/Roller.asm	Objects/43 Badnik - Roller/maps/Roller.asm
+_maps/Rotating Junction.asm	Objects/66 SBZ Rotating Junction/maps/Rotating Junction.asm
+_maps/Running Disc.asm	Objects/67 SBZ Running Disc/maps/Running Disc.asm
+_maps/SBZ Eggman's Crumbling Floor.asm	Objects/82, 83 SBZ Eggman Cutscene and Crumbling Floor/maps/SBZ Eggman's Crumbling Floor.asm
+_maps/SBZ Small Door.asm	Objects/2A SBZ Small Door/maps/SBZ Small Door.asm
+_maps/SBZ Spinning Platforms.asm	Objects/69 SBZ Spinning Platforms and Trapdoors/maps/SBZ Spinning Platforms.asm
+_maps/SBZ Stomper and Door.asm	Objects/6B SBZ Stomper and Sliding Door/maps/SBZ Stomper and Door.asm
+_maps/SBZ Vanishing Platforms.asm	Objects/6C SBZ Vanishing Platforms/maps/SBZ Vanishing Platforms.asm
+_maps/SLZ Boss Spikeball.asm	Objects/7A, 7B Boss - SLZ Main and Spike Balls/maps/SLZ Boss Spikeball.asm
+_maps/SLZ Circling Platform.asm	Objects/5A SLZ Circling Platform/maps/SLZ Circling Platform.asm
+_maps/SLZ Elevators.asm	Objects/59 SLZ Elevators/maps/SLZ Elevators.asm
+_maps/SS Chaos Emeralds.asm	Game Modes/Special Stage/maps/SS Chaos Emeralds.asm
+_maps/SS DOWN Block.asm	Game Modes/Special Stage/maps/SS DOWN Block.asm
+_maps/SS Glass Block.asm	Game Modes/Special Stage/maps/SS Glass Block.asm
+_maps/SS Result Chaos Emeralds.asm	Objects/7E, 7F Special Stage Results and Chaos Emeralds/maps/SS Result Chaos Emeralds.asm
+_maps/SS Shared Block.asm	Game Modes/Special Stage/maps/SS Shared Block.asm
+_maps/SS UP Block.asm	Game Modes/Special Stage/maps/SS UP Block.asm
+_maps/SS Walls.asm	Game Modes/Special Stage/maps/SS Walls.asm
+_maps/SYZ Boss Blocks.asm	Objects/75, 76 Boss - SYZ Main and Blocks/maps/SYZ Boss Blocks.asm
+_maps/Saws and Pizza Cutters.asm	Objects/6A SBZ Saws and Pizza Cutters/maps/Saws and Pizza Cutters.asm
+_maps/Scenery.asm	Objects/1C GHZ, SYZ Scenery/maps/Scenery.asm
+_maps/Seesaw Ball.asm	Objects/5E SLZ Seesaw/maps/Seesaw Ball.asm
+_maps/Seesaw.asm	Objects/5E SLZ Seesaw/maps/Seesaw.asm
+_maps/Shield and Invincibility.asm	Objects/38 Shield and Invincibility/maps/Shield and Invincibility.asm
+_maps/Sideways Stomper.asm	Objects/45 Unused - MZ Sideways Stomper/maps/Sideways Stomper.asm
+_maps/Signpost.asm	Objects/0D Signpost/maps/Signpost.asm
+_maps/Smashable Green Block.asm	Objects/51 MZ Smashable Green Block/maps/Smashable Green Block.asm
+_maps/Smashable Walls.asm	Objects/3C GHZ, SLZ Smashable Wall/maps/Smashable Walls.asm
+_maps/Sonic - Dynamic Gfx Script.asm	Objects/01 Sonic/maps/Sonic - Dynamic Gfx Script.asm
+_maps/Sonic.asm	Objects/01 Sonic/maps/Sonic.asm
+_maps/Special Stage Entry (Unused).asm	Objects/4A Unused - Special Stage Entry/maps/Special Stage Entry (Unused).asm
+_maps/Spiked Ball and Chain (LZ).asm	Objects/57 SYZ, LZ Spiked Ball and Chain/maps/Spiked Ball and Chain (LZ).asm
+_maps/Spiked Ball and Chain (SYZ).asm	Objects/57 SYZ, LZ Spiked Ball and Chain/maps/Spiked Ball and Chain (SYZ).asm
+_maps/Spiked Pole Helix.asm	Objects/17 GHZ Spiked Pole Helix/maps/Spiked Pole Helix.asm
+_maps/Spikes.asm	Objects/36 Spikes/maps/Spikes.asm
+_maps/Springs.asm	Objects/41 Springs/maps/Springs.asm
+_maps/Staircase.asm	Objects/5B SLZ Staircase/maps/Staircase.asm
+_maps/Swinging Platforms (GHZ).asm	Objects/15 Swinging Platforms/maps/Swinging Platforms (GHZ).asm
+_maps/Swinging Platforms (SLZ).asm	Objects/15 Swinging Platforms/maps/Swinging Platforms (SLZ).asm
+_maps/Title Cards.asm	Objects/34 Title Cards/maps/Title Cards.asm
+_maps/Title Screen Sonic.asm	Objects/0E, 0F Title Screen - Sonic, Press Start, TM/maps/Title Screen Sonic.asm
+_maps/Trapdoor.asm	Objects/69 SBZ Spinning Platforms and Trapdoors/maps/Trapdoor.asm
+_maps/Try Again & End Eggman.asm	Objects/8B, 8C Try Again, End Eggman, End Emeralds/maps/Try Again & End Eggman.asm
+_maps/Unused Explosion.asm	Objects/24 Unused - Small Explosion/maps/Unused Explosion.asm
+_maps/Unused Sonic Face.asm	Objects/0A LZ Drowning Countdown/maps/Unused Sonic Face.asm
+_maps/Unused Switch.asm	Objects/1D Unused - Switch/maps/Unused Switch.asm
+_maps/Wall of Lava.asm	Objects/4E MZ Wall of Lava/maps/Wall of Lava.asm
+_maps/Water Splash.asm	Objects/08 LZ Water Splash/maps/Water Splash.asm
+_maps/Water Surface.asm	Objects/1B LZ Water Surface/maps/Water Surface.asm
+_maps/Waterfalls.asm	Objects/65 LZ Waterfalls/maps/Waterfalls.asm
+_maps/Yadrin.asm	Objects/50 Badnik - Yadrin/maps/Yadrin.asm
+_maps/_MapMacros.asm	Objects/shared/_MapMacros.asm
+artkos/Flowers at Ending.kos	Game Modes/Ending/art/Flowers at Ending.kos
+artnem/8x8 - GHZ (Combined).nem	Zones/Green Hill Zone/art/8x8 - GHZ (Combined).nem
+artnem/8x8 - GHZ1.nem	Zones/Green Hill Zone/art/8x8 - GHZ1.nem
+artnem/8x8 - GHZ2.nem	Zones/Green Hill Zone/art/8x8 - GHZ2.nem
+artnem/8x8 - LZ.nem	Zones/Labyrinth Zone/art/8x8 - LZ.nem
+artnem/8x8 - MZ.nem	Zones/Marble Zone/art/8x8 - MZ.nem
+artnem/8x8 - SBZ.nem	Zones/Scrap Brain Zone/art/8x8 - SBZ.nem
+artnem/8x8 - SLZ.nem	Zones/Star Light Zone/art/8x8 - SLZ.nem
+artnem/8x8 - SYZ.nem	Zones/Spring Yard Zone/art/8x8 - SYZ.nem
+artnem/Animal Chicken.nem	Objects/28, 29 Animals and Points/art/Animal Chicken.nem
+artnem/Animal Flicky.nem	Objects/28, 29 Animals and Points/art/Animal Flicky.nem
+artnem/Animal Penguin.nem	Objects/28, 29 Animals and Points/art/Animal Penguin.nem
+artnem/Animal Pig.nem	Objects/28, 29 Animals and Points/art/Animal Pig.nem
+artnem/Animal Rabbit.nem	Objects/28, 29 Animals and Points/art/Animal Rabbit.nem
+artnem/Animal Seal.nem	Objects/28, 29 Animals and Points/art/Animal Seal.nem
+artnem/Animal Squirrel.nem	Objects/28, 29 Animals and Points/art/Animal Squirrel.nem
+artnem/Boss - Eggman after FZ Fight.nem	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/art/Boss - Eggman after FZ Fight.nem
+artnem/Boss - Eggman in SBZ2 & FZ.nem	Objects/shared/Boss/art/Boss - Eggman in SBZ2 & FZ.nem
+artnem/Boss - Exhaust Flame.nem	Objects/shared/Boss/art/Boss - Exhaust Flame.nem
+artnem/Boss - Final Zone.nem	Objects/85,84,86 Boss - FZ Main, Cylinders, and Plasma Balls/art/Boss - Final Zone.nem
+artnem/Boss - Main.nem	Objects/shared/Boss/art/Boss - Main.nem
+artnem/Boss - Weapons.nem	Objects/shared/Boss/art/Boss - Weapons.nem
+artnem/Continue Screen Sonic.nem	Game Modes/Continue Screen/art/Continue Screen Sonic.nem
+artnem/Continue Screen Stuff.nem	Game Modes/Continue Screen/art/Continue Screen Stuff.nem
+artnem/Ending - Credits.nem	Game Modes/Ending/art/Ending - Credits.nem
+artnem/Ending - Emeralds.nem	Game Modes/Ending/art/Ending - Emeralds.nem
+artnem/Ending - Flowers.nem	Game Modes/Ending/art/Ending - Flowers.nem
+artnem/Ending - Sonic.nem	Game Modes/Ending/art/Ending - Sonic.nem
+artnem/Ending - StH Logo.nem	Game Modes/Ending/art/Ending - StH Logo.nem
+artnem/Ending - Try Again.nem	Game Modes/Ending/art/Ending - Try Again.nem
+artnem/Enemy Ball Hog.nem	Objects/1E, 20 Badnik - Ball Hog and Cannonball/art/Enemy Ball Hog.nem
+artnem/Enemy Basaran.nem	Objects/55 Badnik - Basaran/art/Enemy Basaran.nem
+artnem/Enemy Bomb.nem	Objects/5F Badnik - Walking Bomb/art/Enemy Bomb.nem
+artnem/Enemy Burrobot.nem	Objects/2D Badnik - Burrobot/art/Enemy Burrobot.nem
+artnem/Enemy Buzz Bomber.nem	Objects/22, 23 Badnik - Buzz Bomber and Missile/art/Enemy Buzz Bomber.nem
+artnem/Enemy Caterkiller.nem	Objects/78 Badnik - Caterkiller/art/Enemy Caterkiller.nem
+artnem/Enemy Chopper.nem	Objects/2B Badnik - Chopper/art/Enemy Chopper.nem
+artnem/Enemy Crabmeat.nem	Objects/1F Badnik - Crabmeat/art/Enemy Crabmeat.nem
+artnem/Enemy Jaws.nem	Objects/2C Badnik - Jaws/art/Enemy Jaws.nem
+artnem/Enemy Motobug.nem	Objects/40 Badnik - Moto Bug/art/Enemy Motobug.nem
+artnem/Enemy Newtron.nem	Objects/42 Badnik - Newtron/art/Enemy Newtron.nem
+artnem/Enemy Orbinaut.nem	Objects/60 Badnik - Orbinaut/art/Enemy Orbinaut.nem
+artnem/Enemy Roller.nem	Objects/43 Badnik - Roller/art/Enemy Roller.nem
+artnem/Enemy Splats.nem	Objects/shared/art/Enemy Splats.nem
+artnem/Enemy Yadrin.nem	Objects/50 Badnik - Yadrin/art/Enemy Yadrin.nem
+artnem/Explosion.nem	Objects/27, 3F Explosions/art/Explosion.nem
+artnem/Fireballs.nem	Objects/13, 14 MZ, SLZ Fire Balls and Maker/art/Fireballs.nem
+artnem/GHZ Breakable Wall.nem	Objects/3C GHZ, SLZ Smashable Wall/art/GHZ Breakable Wall.nem
+artnem/GHZ Bridge.nem	Objects/11 GHZ Bridge/art/GHZ Bridge.nem
+artnem/GHZ Edge Wall.nem	Objects/44 GHZ Edge Walls/art/GHZ Edge Wall.nem
+artnem/GHZ Flower Stalk.nem	Zones/Green Hill Zone/art/GHZ Flower Stalk.nem
+artnem/GHZ Giant Ball.nem	Objects/19 Unused - Blank/art/GHZ Giant Ball.nem
+artnem/GHZ Purple Rock.nem	Objects/3B GHZ Purple Rock/art/GHZ Purple Rock.nem
+artnem/GHZ Spiked Log.nem	Objects/17 GHZ Spiked Pole Helix/art/GHZ Spiked Log.nem
+artnem/GHZ Swinging Platform.nem	Objects/15 Swinging Platforms/art/GHZ Swinging Platform.nem
+artnem/Game Over.nem	Objects/39 Game Over/art/Game Over.nem
+artnem/Giant Ring Flash.nem	Objects/4B, 7C Giant Ring and Flash/art/Giant Ring Flash.nem
+artnem/HUD - Life Counter Icon.nem	Objects/21 HUD/art/HUD - Life Counter Icon.nem
+artnem/HUD.nem	Objects/21 HUD/art/HUD.nem
+artnem/Hidden Bonuses.nem	Objects/7D Hidden Bonuses/art/Hidden Bonuses.nem
+artnem/Hidden Japanese Credits.nem	Game Modes/Title Screen/art/Hidden Japanese Credits.nem
+artnem/Invincibility Stars.nem	Objects/38 Shield and Invincibility/art/Invincibility Stars.nem
+artnem/LZ 32x16 Block.nem	Objects/61 LZ Blocks/art/LZ 32x16 Block.nem
+artnem/LZ 32x32 Block.nem	Objects/61 LZ Blocks/art/LZ 32x32 Block.nem
+artnem/LZ Blocks.nem	Objects/61 LZ Blocks/art/LZ Blocks.nem
+artnem/LZ Breakable Pole.nem	Objects/0B LZ Pole that Breaks/art/LZ Breakable Pole.nem
+artnem/LZ Bubbles & Countdown.nem	Objects/64 LZ Air Bubbles/art/LZ Bubbles & Countdown.nem
+artnem/LZ Cork.nem	Zones/Labyrinth Zone/art/LZ Cork.nem
+artnem/LZ Flapping Door.nem	Objects/0C LZ Flapping Door/art/LZ Flapping Door.nem
+artnem/LZ Gargoyle & Fireball.nem	Objects/62 LZ Gargoyle/art/LZ Gargoyle & Fireball.nem
+artnem/LZ Harpoon.nem	Objects/16 LZ Harpoon/art/LZ Harpoon.nem
+artnem/LZ Horizontal Door.nem	Objects/56 SYZ, SLZ Floating Blocks and LZ Doors/art/LZ Horizontal Door.nem
+artnem/LZ Rising Platform.nem	Zones/Labyrinth Zone/art/LZ Rising Platform.nem
+artnem/LZ Spiked Ball & Chain.nem	Objects/57 SYZ, LZ Spiked Ball and Chain/art/LZ Spiked Ball & Chain.nem
+artnem/LZ Vertical Door.nem	Objects/56 SYZ, SLZ Floating Blocks and LZ Doors/art/LZ Vertical Door.nem
+artnem/LZ Water & Splashes.nem	Objects/08 LZ Water Splash/art/LZ Water & Splashes.nem
+artnem/LZ Water Surface.nem	Objects/1B LZ Water Surface/art/LZ Water Surface.nem
+artnem/LZ Wheel.nem	Objects/63 LZ Conveyor/art/LZ Wheel.nem
+artnem/Lamppost.nem	Objects/79 Lamppost/art/Lamppost.nem
+artnem/MZ Green Glass Block.nem	Objects/30 MZ Large Green Glass Blocks/art/MZ Green Glass Block.nem
+artnem/MZ Green Pushable Block.nem	Objects/33 MZ, LZ Pushable Blocks/art/MZ Green Pushable Block.nem
+artnem/MZ Lava.nem	Zones/Marble Zone/art/MZ Lava.nem
+artnem/MZ Metal Blocks.nem	Zones/Marble Zone/art/MZ Metal Blocks.nem
+artnem/MZ Switch.nem	Objects/32 Button/art/MZ Switch.nem
+artnem/Monitors.nem	Objects/26, 2E Monitors and Power-Ups/art/Monitors.nem
+artnem/Points.nem	Objects/28, 29 Animals and Points/art/Points.nem
+artnem/Prison Capsule.nem	Objects/3E Prison Capsule/art/Prison Capsule.nem
+artnem/Rings.nem	Objects/25, 37 Rings/art/Rings.nem
+artnem/SBZ Collapsing Floor.nem	Objects/1A, 53 Collapsing Ledges and Floors/art/SBZ Collapsing Floor.nem
+artnem/SBZ Crushing Girder.nem	Objects/70 SBZ Girder Block/art/SBZ Crushing Girder.nem
+artnem/SBZ Electrocuter.nem	Objects/6E SBZ Electrocuter/art/SBZ Electrocuter.nem
+artnem/SBZ Flaming Pipe.nem	Objects/6D SBZ Flamethrower/art/SBZ Flaming Pipe.nem
+artnem/SBZ Junction Wheel.nem	Objects/66 SBZ Rotating Junction/art/SBZ Junction Wheel.nem
+artnem/SBZ Large Horizontal Door.nem	Objects/6B SBZ Stomper and Sliding Door/art/SBZ Large Horizontal Door.nem
+artnem/SBZ Pizza Cutter.nem	Objects/6A SBZ Saws and Pizza Cutters/art/SBZ Pizza Cutter.nem
+artnem/SBZ Running Disc.nem	Objects/67 SBZ Running Disc/art/SBZ Running Disc.nem
+artnem/SBZ Sliding Floor Trap.nem	Zones/Scrap Brain Zone/art/SBZ Sliding Floor Trap.nem
+artnem/SBZ Small Vertical Door.nem	Objects/2A SBZ Small Door/art/SBZ Small Vertical Door.nem
+artnem/SBZ Spinning Platform.nem	Objects/69 SBZ Spinning Platforms and Trapdoors/art/SBZ Spinning Platform.nem
+artnem/SBZ Stomper.nem	Objects/6B SBZ Stomper and Sliding Door/art/SBZ Stomper.nem
+artnem/SBZ Trapdoor.nem	Objects/69 SBZ Spinning Platforms and Trapdoors/art/SBZ Trapdoor.nem
+artnem/SBZ Vanishing Block.nem	Objects/6C SBZ Vanishing Platforms/art/SBZ Vanishing Block.nem
+artnem/SLZ 32x32 Block.nem	Zones/Star Light Zone/art/SLZ 32x32 Block.nem
+artnem/SLZ Breakable Wall.nem	Objects/3C GHZ, SLZ Smashable Wall/art/SLZ Breakable Wall.nem
+artnem/SLZ Cannon.nem	Objects/13, 14 MZ, SLZ Fire Balls and Maker/art/SLZ Cannon.nem
+artnem/SLZ Fan.nem	Objects/5D SLZ Fan/art/SLZ Fan.nem
+artnem/SLZ Little Spikeball.nem	Zones/Star Light Zone/art/SLZ Little Spikeball.nem
+artnem/SLZ Pylon.nem	Objects/5C SLZ Foreground Pylon/art/SLZ Pylon.nem
+artnem/SLZ Seesaw.nem	Objects/5E SLZ Seesaw/art/SLZ Seesaw.nem
+artnem/SLZ Swinging Platform.nem	Objects/15 Swinging Platforms/art/SLZ Swinging Platform.nem
+artnem/SYZ Bumper.nem	Objects/47 SYZ Bumper/art/SYZ Bumper.nem
+artnem/SYZ Large Spikeball.nem	Objects/58 SYZ Big Spiked Ball/art/SYZ Large Spikeball.nem
+artnem/SYZ Small Spikeball.nem	Objects/57 SYZ, LZ Spiked Ball and Chain/art/SYZ Small Spikeball.nem
+artnem/Sega Logo (REV00).nem	Game Modes/Sega Screen/art/Sega Logo (REV00).nem
+artnem/Sega Logo (REV01).nem	Game Modes/Sega Screen/art/Sega Logo (REV01).nem
+artnem/Shield.nem	Objects/38 Shield and Invincibility/art/Shield.nem
+artnem/Signpost.nem	Objects/0D Signpost/art/Signpost.nem
+artnem/Special 1UP.nem	Game Modes/Special Stage/art/Special 1UP.nem
+artnem/Special Birds & Fish.nem	Game Modes/Special Stage/art/Special Birds & Fish.nem
+artnem/Special Clouds.nem	Game Modes/Special Stage/art/Special Clouds.nem
+artnem/Special Emerald Twinkle.nem	Game Modes/Special Stage/art/Special Emerald Twinkle.nem
+artnem/Special Emeralds.nem	Game Modes/Special Stage/art/Special Emeralds.nem
+artnem/Special GOAL.nem	Game Modes/Special Stage/art/Special GOAL.nem
+artnem/Special Ghost.nem	Game Modes/Special Stage/art/Special Ghost.nem
+artnem/Special Glass.nem	Game Modes/Special Stage/art/Special Glass.nem
+artnem/Special R.nem	Game Modes/Special Stage/art/Special R.nem
+artnem/Special Red-White.nem	Game Modes/Special Stage/art/Special Red-White.nem
+artnem/Special Result Emeralds.nem	Game Modes/Special Stage/art/Special Result Emeralds.nem
+artnem/Special UP-DOWN.nem	Game Modes/Special Stage/art/Special UP-DOWN.nem
+artnem/Special W.nem	Game Modes/Special Stage/art/Special W.nem
+artnem/Special Walls.nem	Game Modes/Special Stage/art/Special Walls.nem
+artnem/Special ZONE1.nem	Game Modes/Special Stage/art/Special ZONE1.nem
+artnem/Special ZONE2.nem	Game Modes/Special Stage/art/Special ZONE2.nem
+artnem/Special ZONE3.nem	Game Modes/Special Stage/art/Special ZONE3.nem
+artnem/Special ZONE4.nem	Game Modes/Special Stage/art/Special ZONE4.nem
+artnem/Special ZONE5.nem	Game Modes/Special Stage/art/Special ZONE5.nem
+artnem/Special ZONE6.nem	Game Modes/Special Stage/art/Special ZONE6.nem
+artnem/Spikes.nem	Objects/36 Spikes/art/Spikes.nem
+artnem/Spring Horizontal.nem	Objects/41 Springs/art/Spring Horizontal.nem
+artnem/Spring Vertical.nem	Objects/41 Springs/art/Spring Vertical.nem
+artnem/Switch.nem	Objects/32 Button/art/Switch.nem
+artnem/Title Cards.nem	Objects/34 Title Cards/art/Title Cards.nem
+artnem/Title Screen Foreground.nem	Game Modes/Title Screen/art/Title Screen Foreground.nem
+artnem/Title Screen Sonic.nem	Game Modes/Title Screen/art/Title Screen Sonic.nem
+artnem/Title Screen TM.nem	Game Modes/Title Screen/art/Title Screen TM.nem
+artnem/Unused - Eggman Ending.nem	Game Modes/Ending/art/Unused - Eggman Ending.nem
+artnem/Unused - Explosion.nem	Objects/27, 3F Explosions/art/Unused - Explosion.nem
+artnem/Unused - Fireball.nem	Objects/shared/art/Unused - Fireball.nem
+artnem/Unused - GHZ Block.nem	Zones/Green Hill Zone/art/Unused - GHZ Block.nem
+artnem/Unused - GHZ Log.nem	Zones/Green Hill Zone/art/Unused - GHZ Log.nem
+artnem/Unused - Goggles.nem	Objects/shared/art/Unused - Goggles.nem
+artnem/Unused - Grass.nem	Zones/Green Hill Zone/art/Unused - Grass.nem
+artnem/Unused - LZ Sonic.nem	Zones/Labyrinth Zone/art/Unused - LZ Sonic.nem
+artnem/Unused - MZ Background.nem	Zones/Marble Zone/art/Unused - MZ Background.nem
+artnem/Unused - SStage Flash.nem	Game Modes/Special Stage/art/Unused - SStage Flash.nem
+artnem/Unused - SYZ Sparkles.nem	Zones/Spring Yard Zone/art/Unused - SYZ Sparkles.nem
+artnem/Unused - Smoke.nem	Objects/shared/art/Unused - Smoke.nem
+artunc/GHZ Flower Large.unc	Zones/Green Hill Zone/art/GHZ Flower Large.unc
+artunc/GHZ Flower Small.unc	Zones/Green Hill Zone/art/GHZ Flower Small.unc
+artunc/GHZ Waterfall.unc	Zones/Green Hill Zone/art/GHZ Waterfall.unc
+artunc/Giant Ring.unc	Objects/4B, 7C Giant Ring and Flash/art/Giant Ring.unc
+artunc/HUD Numbers.unc	Objects/21 HUD/art/HUD Numbers.unc
+artunc/Level Select & Debug Text.unc	Game Modes/Title Screen/art/Level Select & Debug Text.unc
+artunc/Lives Counter Numbers.unc	Objects/21 HUD/art/Lives Counter Numbers.unc
+artunc/MZ Background Torch.unc	Zones/Marble Zone/art/MZ Background Torch.unc
+artunc/MZ Lava Surface.unc	Zones/Marble Zone/art/MZ Lava Surface.unc
+artunc/MZ Lava.unc	Zones/Marble Zone/art/MZ Lava.unc
+artunc/SBZ Background Smoke.unc	Zones/Scrap Brain Zone/art/SBZ Background Smoke.unc
+artunc/Sonic.unc	Objects/01 Sonic/art/Sonic.unc
+collide/Angle Map.bin	Zones/shared/collision/Angle Map.bin
+collide/Collision Array (Normal).bin	Zones/shared/collision/Collision Array (Normal).bin
+collide/Collision Array (Rotated).bin	Zones/shared/collision/Collision Array (Rotated).bin
+collide/GHZ.bin	Zones/Green Hill Zone/collision/GHZ.bin
+collide/LZ.bin	Zones/Labyrinth Zone/collision/LZ.bin
+collide/MZ.bin	Zones/Marble Zone/collision/MZ.bin
+collide/SBZ.bin	Zones/Scrap Brain Zone/collision/SBZ.bin
+collide/SLZ.bin	Zones/Star Light Zone/collision/SLZ.bin
+collide/SYZ.bin	Zones/Spring Yard Zone/collision/SYZ.bin
+demodata/Ending - GHZ1.asm	Zones/Green Hill Zone/demos/Ending - GHZ1.asm
+demodata/Ending - GHZ2.asm	Zones/Green Hill Zone/demos/Ending - GHZ2.asm
+demodata/Ending - LZ.asm	Zones/Labyrinth Zone/demos/Ending - LZ.asm
+demodata/Ending - MZ.asm	Zones/Marble Zone/demos/Ending - MZ.asm
+demodata/Ending - SBZ1.asm	Zones/Scrap Brain Zone/demos/Ending - SBZ1.asm
+demodata/Ending - SBZ2.asm	Zones/Scrap Brain Zone/demos/Ending - SBZ2.asm
+demodata/Ending - SLZ.asm	Zones/Labyrinth Zone/demos/Ending - SLZ.asm
+demodata/Ending - SYZ.asm	Zones/Spring Yard Zone/demos/Ending - SYZ.asm
+demodata/Intro - GHZ.asm	Zones/Green Hill Zone/demos/Intro - GHZ.asm
+demodata/Intro - MZ.asm	Zones/Marble Zone/demos/Intro - MZ.asm
+demodata/Intro - SYZ.asm	Zones/Spring Yard Zone/demos/Intro - SYZ.asm
+demodata/Intro - Special Stage.asm	Game Modes/Special Stage/demos/Intro - Special Stage.asm
+demodata/Unused Demo.asm	Zones/shared/demos/Unused Demo.asm
+levels/ending.bin	Game Modes/Ending/layouts/ending.bin
+levels/ghz1.bin	Zones/Green Hill Zone/layouts/ghz1.bin
+levels/ghz2.bin	Zones/Green Hill Zone/layouts/ghz2.bin
+levels/ghz3.bin	Zones/Green Hill Zone/layouts/ghz3.bin
+levels/ghzbg.bin	Zones/Green Hill Zone/layouts/ghzbg.bin
+levels/lz1.bin	Zones/Labyrinth Zone/layouts/lz1.bin
+levels/lz2.bin	Zones/Labyrinth Zone/layouts/lz2.bin
+levels/lz3.bin	Zones/Labyrinth Zone/layouts/lz3.bin
+levels/lzbg.bin	Zones/Labyrinth Zone/layouts/lzbg.bin
+levels/mz1.bin	Zones/Marble Zone/layouts/mz1.bin
+levels/mz1bg.bin	Zones/Marble Zone/layouts/mz1bg.bin
+levels/mz2.bin	Zones/Marble Zone/layouts/mz2.bin
+levels/mz2bg.bin	Zones/Marble Zone/layouts/mz2bg.bin
+levels/mz3.bin	Zones/Marble Zone/layouts/mz3.bin
+levels/mz3bg.bin	Zones/Marble Zone/layouts/mz3bg.bin
+levels/sbz1.bin	Zones/Scrap Brain Zone/layouts/sbz1.bin
+levels/sbz1bg.bin	Zones/Scrap Brain Zone/layouts/sbz1bg.bin
+levels/sbz2.bin	Zones/Scrap Brain Zone/layouts/sbz2.bin
+levels/sbz2bg.bin	Zones/Scrap Brain Zone/layouts/sbz2bg.bin
+levels/sbz3.bin	Zones/Scrap Brain Zone/layouts/sbz3.bin
+levels/slz1.bin	Zones/Star Light Zone/layouts/slz1.bin
+levels/slz2.bin	Zones/Star Light Zone/layouts/slz2.bin
+levels/slz3.bin	Zones/Star Light Zone/layouts/slz3.bin
+levels/slzbg.bin	Zones/Star Light Zone/layouts/slzbg.bin
+levels/syz1.bin	Zones/Spring Yard Zone/layouts/syz1.bin
+levels/syz2.bin	Zones/Spring Yard Zone/layouts/syz2.bin
+levels/syz3.bin	Zones/Spring Yard Zone/layouts/syz3.bin
+levels/syzbg (REV00).bin	Zones/Spring Yard Zone/layouts/syzbg (REV00).bin
+levels/syzbg (REV01).bin	Zones/Spring Yard Zone/layouts/syzbg (REV01).bin
+map16/GHZ.eni	Zones/Green Hill Zone/blocks/GHZ.eni
+map16/LZ.eni	Zones/Labyrinth Zone/blocks/LZ.eni
+map16/MZ.eni	Zones/Marble Zone/blocks/MZ.eni
+map16/SBZ.eni	Zones/Scrap Brain Zone/blocks/SBZ.eni
+map16/SLZ.eni	Zones/Star Light Zone/blocks/SLZ.eni
+map16/SYZ.eni	Zones/Spring Yard Zone/blocks/SYZ.eni
+map256/GHZ.kos	Zones/Green Hill Zone/chunks/GHZ.kos
+map256/LZ.kos	Zones/Labyrinth Zone/chunks/LZ.kos
+map256/MZ (REV00).kos	Zones/Marble Zone/chunks/MZ (REV00).kos
+map256/MZ (REV01).kos	Zones/Marble Zone/chunks/MZ (REV01).kos
+map256/SBZ (REV00).kos	Zones/Scrap Brain Zone/chunks/SBZ (REV00).kos
+map256/SBZ (REV01).kos	Zones/Scrap Brain Zone/chunks/SBZ (REV01).kos
+map256/SLZ.kos	Zones/Star Light Zone/chunks/SLZ.kos
+map256/SYZ.kos	Zones/Spring Yard Zone/chunks/SYZ.kos
+objpos/ending.bin	Game Modes/Ending/objpos/ending.bin
+objpos/fz.bin	Zones/Scrap Brain Zone/objpos/fz.bin
+objpos/ghz1.bin	Zones/Green Hill Zone/objpos/ghz1.bin
+objpos/ghz2.bin	Zones/Green Hill Zone/objpos/ghz2.bin
+objpos/ghz3 (REV00).bin	Zones/Green Hill Zone/objpos/ghz3 (REV00).bin
+objpos/ghz3 (REV01).bin	Zones/Green Hill Zone/objpos/ghz3 (REV01).bin
+objpos/lz1 (REV00).bin	Zones/Labyrinth Zone/objpos/lz1 (REV00).bin
+objpos/lz1 (REV01).bin	Zones/Labyrinth Zone/objpos/lz1 (REV01).bin
+objpos/lz2.bin	Zones/Labyrinth Zone/objpos/lz2.bin
+objpos/lz3 (REV00).bin	Zones/Labyrinth Zone/objpos/lz3 (REV00).bin
+objpos/lz3 (REV01).bin	Zones/Labyrinth Zone/objpos/lz3 (REV01).bin
+objpos/mz1 (REV00).bin	Zones/Marble Zone/objpos/mz1 (REV00).bin
+objpos/mz1 (REV01).bin	Zones/Marble Zone/objpos/mz1 (REV01).bin
+objpos/mz2.bin	Zones/Marble Zone/objpos/mz2.bin
+objpos/mz3.bin	Zones/Marble Zone/objpos/mz3.bin
+objpos/platforms/lz1pf1.bin	Zones/Labyrinth Zone/objpos/platforms/lz1pf1.bin
+objpos/platforms/lz1pf2.bin	Zones/Labyrinth Zone/objpos/platforms/lz1pf2.bin
+objpos/platforms/lz2pf1.bin	Zones/Labyrinth Zone/objpos/platforms/lz2pf1.bin
+objpos/platforms/lz2pf2.bin	Zones/Labyrinth Zone/objpos/platforms/lz2pf2.bin
+objpos/platforms/lz3pf1.bin	Zones/Labyrinth Zone/objpos/platforms/lz3pf1.bin
+objpos/platforms/lz3pf2.bin	Zones/Labyrinth Zone/objpos/platforms/lz3pf2.bin
+objpos/platforms/sbz1pf1.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf1.bin
+objpos/platforms/sbz1pf2.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf2.bin
+objpos/platforms/sbz1pf3.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf3.bin
+objpos/platforms/sbz1pf4.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf4.bin
+objpos/platforms/sbz1pf5.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf5.bin
+objpos/platforms/sbz1pf6.bin	Zones/Scrap Brain Zone/objpos/platforms/sbz1pf6.bin
+objpos/sbz1 (REV00).bin	Zones/Scrap Brain Zone/objpos/sbz1 (REV00).bin
+objpos/sbz1 (REV01).bin	Zones/Scrap Brain Zone/objpos/sbz1 (REV01).bin
+objpos/sbz2.bin	Zones/Scrap Brain Zone/objpos/sbz2.bin
+objpos/sbz3.bin	Zones/Scrap Brain Zone/objpos/sbz3.bin
+objpos/slz1.bin	Zones/Star Light Zone/objpos/slz1.bin
+objpos/slz2.bin	Zones/Star Light Zone/objpos/slz2.bin
+objpos/slz3.bin	Zones/Star Light Zone/objpos/slz3.bin
+objpos/syz1.bin	Zones/Spring Yard Zone/objpos/syz1.bin
+objpos/syz2.bin	Zones/Spring Yard Zone/objpos/syz2.bin
+objpos/syz3 (REV00).bin	Zones/Spring Yard Zone/objpos/syz3 (REV00).bin
+objpos/syz3 (REV01).bin	Zones/Spring Yard Zone/objpos/syz3 (REV01).bin
+palette/Cycle - GHZ.bin	Zones/Green Hill Zone/palettes/Cycle - GHZ.bin
+palette/Cycle - LZ Conveyor Belt Underwater.bin	Zones/Labyrinth Zone/palettes/Cycle - LZ Conveyor Belt Underwater.bin
+palette/Cycle - LZ Conveyor Belt.bin	Zones/Labyrinth Zone/palettes/Cycle - LZ Conveyor Belt.bin
+palette/Cycle - LZ Waterfall.bin	Zones/Labyrinth Zone/palettes/Cycle - LZ Waterfall.bin
+palette/Cycle - MZ (Unused).bin	Zones/Marble Zone/palettes/Cycle - MZ (Unused).bin
+palette/Cycle - SBZ 1.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 1.bin
+palette/Cycle - SBZ 10.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 10.bin
+palette/Cycle - SBZ 2.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 2.bin
+palette/Cycle - SBZ 3.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 3.bin
+palette/Cycle - SBZ 4.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 4.bin
+palette/Cycle - SBZ 5.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 5.bin
+palette/Cycle - SBZ 6.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 6.bin
+palette/Cycle - SBZ 7.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 7.bin
+palette/Cycle - SBZ 8.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 8.bin
+palette/Cycle - SBZ 9.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ 9.bin
+palette/Cycle - SBZ3 Waterfall.bin	Zones/Scrap Brain Zone/palettes/Cycle - SBZ3 Waterfall.bin
+palette/Cycle - SLZ.bin	Zones/Star Light Zone/palettes/Cycle - SLZ.bin
+palette/Cycle - SYZ1.bin	Zones/Spring Yard Zone/palettes/Cycle - SYZ1.bin
+palette/Cycle - SYZ2.bin	Zones/Spring Yard Zone/palettes/Cycle - SYZ2.bin
+palette/Cycle - Special Stage 1.bin	Game Modes/Special Stage/palettes/Cycle - Special Stage 1.bin
+palette/Cycle - Special Stage 2.bin	Game Modes/Special Stage/palettes/Cycle - Special Stage 2.bin
+palette/Cycle - Title Screen Water.bin	Game Modes/Title Screen/palettes/Cycle - Title Screen Water.bin
+palette/Ending.bin	Game Modes/Ending/palettes/Ending.bin
+palette/Green Hill Zone.bin	Zones/Green Hill Zone/palettes/Green Hill Zone.bin
+palette/Labyrinth Zone Underwater.bin	Zones/Labyrinth Zone/palettes/Labyrinth Zone Underwater.bin
+palette/Labyrinth Zone.bin	Zones/Labyrinth Zone/palettes/Labyrinth Zone.bin
+palette/Level Select.bin	Game Modes/Title Screen/palettes/Level Select.bin
+palette/Marble Zone.bin	Zones/Marble Zone/palettes/Marble Zone.bin
+palette/SBZ Act 1.bin	Zones/Scrap Brain Zone/palettes/SBZ Act 1.bin
+palette/SBZ Act 2.bin	Zones/Scrap Brain Zone/palettes/SBZ Act 2.bin
+palette/SBZ Act 3 Underwater.bin	Zones/Scrap Brain Zone/palettes/SBZ Act 3 Underwater.bin
+palette/SBZ Act 3.bin	Zones/Scrap Brain Zone/palettes/SBZ Act 3.bin
+palette/Sega Background.bin	Game Modes/Sega Screen/palettes/Sega Background.bin
+palette/Sega1.bin	Game Modes/Sega Screen/palettes/Sega1.bin
+palette/Sega2.bin	Game Modes/Sega Screen/palettes/Sega2.bin
+palette/Sonic - LZ Underwater.bin	Zones/Labyrinth Zone/palettes/Sonic - LZ Underwater.bin
+palette/Sonic - SBZ3 Underwater.bin	Zones/Scrap Brain Zone/palettes/Sonic - SBZ3 Underwater.bin
+palette/Sonic.bin	Objects/01 Sonic/palettes/Sonic.bin
+palette/Special Stage Continue Bonus.bin	Game Modes/Special Stage/palettes/Special Stage Continue Bonus.bin
+palette/Special Stage Results.bin	Game Modes/Special Stage/palettes/Special Stage Results.bin
+palette/Special Stage.bin	Game Modes/Special Stage/palettes/Special Stage.bin
+palette/Spring Yard Zone.bin	Zones/Spring Yard Zone/palettes/Spring Yard Zone.bin
+palette/Star Light Zone.bin	Zones/Star Light Zone/palettes/Star Light Zone.bin
+palette/Title Screen.bin	Game Modes/Title Screen/palettes/Title Screen.bin
+sound/_smps2asm_inc.asm	Sound/_smps2asm_inc.asm
+sound/dac/dpcm/deltas.bin	Sound/dac/dpcm/deltas.bin
+sound/dac/dpcm/generated/hashes.lua	Sound/dac/dpcm/generated/hashes.lua
+sound/dac/dpcm/generated/kick.dpcm	Sound/dac/dpcm/generated/kick.dpcm
+sound/dac/dpcm/generated/kick.inc	Sound/dac/dpcm/generated/kick.inc
+sound/dac/dpcm/generated/raw DPCM data will be generated here	Sound/dac/dpcm/generated/raw DPCM data will be generated here
+sound/dac/dpcm/generated/snare.dpcm	Sound/dac/dpcm/generated/snare.dpcm
+sound/dac/dpcm/generated/snare.inc	Sound/dac/dpcm/generated/snare.inc
+sound/dac/dpcm/generated/timpani.dpcm	Sound/dac/dpcm/generated/timpani.dpcm
+sound/dac/dpcm/generated/timpani.inc	Sound/dac/dpcm/generated/timpani.inc
+sound/dac/dpcm/kick.wav	Sound/dac/dpcm/kick.wav
+sound/dac/dpcm/snare.wav	Sound/dac/dpcm/snare.wav
+sound/dac/dpcm/timpani.wav	Sound/dac/dpcm/timpani.wav
+sound/dac/pcm/generated/hashes.lua	Sound/dac/pcm/generated/hashes.lua
+sound/dac/pcm/generated/raw PCM data will be generated here	Sound/dac/pcm/generated/raw PCM data will be generated here
+sound/dac/pcm/generated/sega.inc	Sound/dac/pcm/generated/sega.inc
+sound/dac/pcm/generated/sega.pcm	Sound/dac/pcm/generated/sega.pcm
+sound/dac/pcm/sega.wav	Sound/dac/pcm/sega.wav
+sound/music/Mus81 - GHZ.asm	Sound/music/Mus81 - GHZ.asm
+sound/music/Mus82 - LZ.asm	Sound/music/Mus82 - LZ.asm
+sound/music/Mus83 - MZ.asm	Sound/music/Mus83 - MZ.asm
+sound/music/Mus84 - SLZ.asm	Sound/music/Mus84 - SLZ.asm
+sound/music/Mus85 - SYZ.asm	Sound/music/Mus85 - SYZ.asm
+sound/music/Mus86 - SBZ.asm	Sound/music/Mus86 - SBZ.asm
+sound/music/Mus87 - Invincibility.asm	Sound/music/Mus87 - Invincibility.asm
+sound/music/Mus88 - Extra Life.asm	Sound/music/Mus88 - Extra Life.asm
+sound/music/Mus89 - Special Stage.asm	Sound/music/Mus89 - Special Stage.asm
+sound/music/Mus8A - Title Screen.asm	Sound/music/Mus8A - Title Screen.asm
+sound/music/Mus8B - Ending.asm	Sound/music/Mus8B - Ending.asm
+sound/music/Mus8C - Boss.asm	Sound/music/Mus8C - Boss.asm
+sound/music/Mus8D - FZ.asm	Sound/music/Mus8D - FZ.asm
+sound/music/Mus8E - Sonic Got Through.asm	Sound/music/Mus8E - Sonic Got Through.asm
+sound/music/Mus8F - Game Over.asm	Sound/music/Mus8F - Game Over.asm
+sound/music/Mus90 - Continue Screen.asm	Sound/music/Mus90 - Continue Screen.asm
+sound/music/Mus91 - Credits.asm	Sound/music/Mus91 - Credits.asm
+sound/music/Mus92 - Drowning.asm	Sound/music/Mus92 - Drowning.asm
+sound/music/Mus93 - Get Emerald.asm	Sound/music/Mus93 - Get Emerald.asm
+sound/sfx/SndA0 - Jump.asm	Sound/sfx/SndA0 - Jump.asm
+sound/sfx/SndA1 - Lamppost.asm	Sound/sfx/SndA1 - Lamppost.asm
+sound/sfx/SndA2.asm	Sound/sfx/SndA2.asm
+sound/sfx/SndA3 - Death.asm	Sound/sfx/SndA3 - Death.asm
+sound/sfx/SndA4 - Skid.asm	Sound/sfx/SndA4 - Skid.asm
+sound/sfx/SndA5.asm	Sound/sfx/SndA5.asm
+sound/sfx/SndA6 - Hit Spikes.asm	Sound/sfx/SndA6 - Hit Spikes.asm
+sound/sfx/SndA7 - Push Block.asm	Sound/sfx/SndA7 - Push Block.asm
+sound/sfx/SndA8 - SS Goal.asm	Sound/sfx/SndA8 - SS Goal.asm
+sound/sfx/SndA9 - SS Item.asm	Sound/sfx/SndA9 - SS Item.asm
+sound/sfx/SndAA - Splash.asm	Sound/sfx/SndAA - Splash.asm
+sound/sfx/SndAB.asm	Sound/sfx/SndAB.asm
+sound/sfx/SndAC - Hit Boss.asm	Sound/sfx/SndAC - Hit Boss.asm
+sound/sfx/SndAD - Get Bubble.asm	Sound/sfx/SndAD - Get Bubble.asm
+sound/sfx/SndAE - Fireball.asm	Sound/sfx/SndAE - Fireball.asm
+sound/sfx/SndAF - Shield.asm	Sound/sfx/SndAF - Shield.asm
+sound/sfx/SndB0 - Saw.asm	Sound/sfx/SndB0 - Saw.asm
+sound/sfx/SndB1 - Electric.asm	Sound/sfx/SndB1 - Electric.asm
+sound/sfx/SndB2 - Drown Death.asm	Sound/sfx/SndB2 - Drown Death.asm
+sound/sfx/SndB3 - Flamethrower.asm	Sound/sfx/SndB3 - Flamethrower.asm
+sound/sfx/SndB4 - Bumper.asm	Sound/sfx/SndB4 - Bumper.asm
+sound/sfx/SndB5 - Ring.asm	Sound/sfx/SndB5 - Ring.asm
+sound/sfx/SndB6 - Spikes Move.asm	Sound/sfx/SndB6 - Spikes Move.asm
+sound/sfx/SndB7 - Rumbling.asm	Sound/sfx/SndB7 - Rumbling.asm
+sound/sfx/SndB8.asm	Sound/sfx/SndB8.asm
+sound/sfx/SndB9 - Collapse.asm	Sound/sfx/SndB9 - Collapse.asm
+sound/sfx/SndBA - SS Glass.asm	Sound/sfx/SndBA - SS Glass.asm
+sound/sfx/SndBB - Door.asm	Sound/sfx/SndBB - Door.asm
+sound/sfx/SndBC - Teleport.asm	Sound/sfx/SndBC - Teleport.asm
+sound/sfx/SndBD - ChainStomp.asm	Sound/sfx/SndBD - ChainStomp.asm
+sound/sfx/SndBE - Roll.asm	Sound/sfx/SndBE - Roll.asm
+sound/sfx/SndBF - Get Continue.asm	Sound/sfx/SndBF - Get Continue.asm
+sound/sfx/SndC0 - Basaran Flap.asm	Sound/sfx/SndC0 - Basaran Flap.asm
+sound/sfx/SndC1 - Break Item.asm	Sound/sfx/SndC1 - Break Item.asm
+sound/sfx/SndC2 - Drown Warning.asm	Sound/sfx/SndC2 - Drown Warning.asm
+sound/sfx/SndC3 - Giant Ring.asm	Sound/sfx/SndC3 - Giant Ring.asm
+sound/sfx/SndC4 - Bomb.asm	Sound/sfx/SndC4 - Bomb.asm
+sound/sfx/SndC5 - Cash Register.asm	Sound/sfx/SndC5 - Cash Register.asm
+sound/sfx/SndC6 - Ring Loss.asm	Sound/sfx/SndC6 - Ring Loss.asm
+sound/sfx/SndC7 - Chain Rising.asm	Sound/sfx/SndC7 - Chain Rising.asm
+sound/sfx/SndC8 - Burning.asm	Sound/sfx/SndC8 - Burning.asm
+sound/sfx/SndC9 - Hidden Bonus.asm	Sound/sfx/SndC9 - Hidden Bonus.asm
+sound/sfx/SndCA - Enter SS.asm	Sound/sfx/SndCA - Enter SS.asm
+sound/sfx/SndCB - Wall Smash.asm	Sound/sfx/SndCB - Wall Smash.asm
+sound/sfx/SndCC - Spring.asm	Sound/sfx/SndCC - Spring.asm
+sound/sfx/SndCD - Switch.asm	Sound/sfx/SndCD - Switch.asm
+sound/sfx/SndCE - Ring Left Speaker.asm	Sound/sfx/SndCE - Ring Left Speaker.asm
+sound/sfx/SndCF - Signpost.asm	Sound/sfx/SndCF - Signpost.asm
+sound/sfx/SndD0 - Waterfall.asm	Sound/sfx/SndD0 - Waterfall.asm
+sound/z80.asm	Sound/z80.asm
+sslayout/1.eni	Game Modes/Special Stage/layouts/1.eni
+sslayout/2.eni	Game Modes/Special Stage/layouts/2.eni
+sslayout/3.eni	Game Modes/Special Stage/layouts/3.eni
+sslayout/4.eni	Game Modes/Special Stage/layouts/4.eni
+sslayout/5 (REV00).eni	Game Modes/Special Stage/layouts/5 (REV00).eni
+sslayout/5 (REV01).eni	Game Modes/Special Stage/layouts/5 (REV01).eni
+sslayout/6 (REV00).eni	Game Modes/Special Stage/layouts/6 (REV00).eni
+sslayout/6 (REV01).eni	Game Modes/Special Stage/layouts/6 (REV01).eni
+startpos/Credits Demos/ghz1 (Credits demo 1).bin	Zones/Green Hill Zone/startpos/Credits Demos/ghz1 (Credits demo 1).bin
+startpos/Credits Demos/ghz1 (Credits demo 2).bin	Zones/Green Hill Zone/startpos/Credits Demos/ghz1 (Credits demo 2).bin
+startpos/Credits Demos/lz3 (Credits demo).bin	Zones/Labyrinth Zone/startpos/Credits Demos/lz3 (Credits demo).bin
+startpos/Credits Demos/mz2 (Credits demo).bin	Zones/Marble Zone/startpos/Credits Demos/mz2 (Credits demo).bin
+startpos/Credits Demos/sbz1 (Credits demo).bin	Zones/Scrap Brain Zone/startpos/Credits Demos/sbz1 (Credits demo).bin
+startpos/Credits Demos/sbz2 (Credits demo).bin	Zones/Scrap Brain Zone/startpos/Credits Demos/sbz2 (Credits demo).bin
+startpos/Credits Demos/slz3 (Credits demo).bin	Zones/Star Light Zone/startpos/Credits Demos/slz3 (Credits demo).bin
+startpos/Credits Demos/syz3 (Credits demo).bin	Zones/Spring Yard Zone/startpos/Credits Demos/syz3 (Credits demo).bin
+startpos/Special Stages/ss1.bin	Game Modes/Special Stage/startpos/ss1.bin
+startpos/Special Stages/ss2.bin	Game Modes/Special Stage/startpos/ss2.bin
+startpos/Special Stages/ss3.bin	Game Modes/Special Stage/startpos/ss3.bin
+startpos/Special Stages/ss4.bin	Game Modes/Special Stage/startpos/ss4.bin
+startpos/Special Stages/ss5.bin	Game Modes/Special Stage/startpos/ss5.bin
+startpos/Special Stages/ss6.bin	Game Modes/Special Stage/startpos/ss6.bin
+startpos/end1.bin	Game Modes/Ending/startpos/end1.bin
+startpos/end2.bin	Game Modes/Ending/startpos/end2.bin
+startpos/fz.bin	Zones/Scrap Brain Zone/startpos/fz.bin
+startpos/ghz1.bin	Zones/Green Hill Zone/startpos/ghz1.bin
+startpos/ghz2.bin	Zones/Green Hill Zone/startpos/ghz2.bin
+startpos/ghz3.bin	Zones/Green Hill Zone/startpos/ghz3.bin
+startpos/lz1.bin	Zones/Labyrinth Zone/startpos/lz1.bin
+startpos/lz2.bin	Zones/Labyrinth Zone/startpos/lz2.bin
+startpos/lz3.bin	Zones/Labyrinth Zone/startpos/lz3.bin
+startpos/mz1.bin	Zones/Marble Zone/startpos/mz1.bin
+startpos/mz2.bin	Zones/Marble Zone/startpos/mz2.bin
+startpos/mz3.bin	Zones/Marble Zone/startpos/mz3.bin
+startpos/sbz1.bin	Zones/Scrap Brain Zone/startpos/sbz1.bin
+startpos/sbz2.bin	Zones/Scrap Brain Zone/startpos/sbz2.bin
+startpos/sbz3.bin	Zones/Scrap Brain Zone/startpos/sbz3.bin
+startpos/slz1.bin	Zones/Star Light Zone/startpos/slz1.bin
+startpos/slz2.bin	Zones/Star Light Zone/startpos/slz2.bin
+startpos/slz3.bin	Zones/Star Light Zone/startpos/slz3.bin
+startpos/syz1.bin	Zones/Spring Yard Zone/startpos/syz1.bin
+startpos/syz2.bin	Zones/Spring Yard Zone/startpos/syz2.bin
+startpos/syz3.bin	Zones/Spring Yard Zone/startpos/syz3.bin
+tilemaps/Hidden Japanese Credits.eni	Game Modes/Title Screen/tilemaps/Hidden Japanese Credits.eni
+tilemaps/SS Background 1.eni	Game Modes/Special Stage/tilemaps/SS Background 1.eni
+tilemaps/SS Background 2.eni	Game Modes/Special Stage/tilemaps/SS Background 2.eni
+tilemaps/Sega Logo (REV00).eni	Game Modes/Sega Screen/tilemaps/Sega Logo (REV00).eni
+tilemaps/Sega Logo (REV01).eni	Game Modes/Sega Screen/tilemaps/Sega Logo (REV01).eni
+tilemaps/Title Screen.eni	Game Modes/Title Screen/tilemaps/Title Screen.eni

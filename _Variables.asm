@@ -3,7 +3,7 @@
 ; RAM Variables
 ; ---------------------------------------------------------------------------
 
-	include "s1.sounddriver.ram.asm"
+	include "Sound/s1.sounddriver.ram.asm"
 
 ; Sign-extends a 32-bit integer to 64-bit
 ; (All RAM addresses are run through this function to allow them to work in both 16-bit and 32-bit addressing modes.)

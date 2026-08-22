@@ -2,20 +2,20 @@
 <ObjDef xmlns="http://www.sonicretro.org" Name="Block/Cork" Image="cork" DefaultSubtype="27">
   <Images>
     <ImageFromMappings id="fallingplatform">
-      <ArtFile filename="../../artnem/LZ Horizontal Door.nem"/>
-      <MapFile type="ASM" filename="../../_maps/LZ Blocks.asm" frame="0" startpal="2"/>
+      <ArtFile filename="../../Objects/56 SYZ, SLZ Floating Blocks and LZ Doors/art/LZ Horizontal Door.nem"/>
+      <MapFile type="ASM" filename="../../Objects/61 LZ Blocks/maps/LZ Blocks.asm" frame="0" startpal="2"/>
     </ImageFromMappings>
     <ImageFromMappings id="wideplatform">
-      <ArtFile filename="../../artnem/LZ Rising Platform.nem" offset="3360"/>
-      <MapFile type="ASM" filename="../../_maps/LZ Blocks.asm" frame="1" startpal="2"/>
+      <ArtFile filename="../../Zones/Labyrinth Zone/art/LZ Rising Platform.nem" offset="3360"/>
+      <MapFile type="ASM" filename="../../Objects/61 LZ Blocks/maps/LZ Blocks.asm" frame="1" startpal="2"/>
     </ImageFromMappings>
     <ImageFromMappings id="cork">
-      <ArtFile filename="../../artnem/LZ Cork.nem" offset="9024"/>
-      <MapFile type="ASM" filename="../../_maps/LZ Blocks.asm" frame="2" startpal="2"/>
+      <ArtFile filename="../../Zones/Labyrinth Zone/art/LZ Cork.nem" offset="9024"/>
+      <MapFile type="ASM" filename="../../Objects/61 LZ Blocks/maps/LZ Blocks.asm" frame="2" startpal="2"/>
     </ImageFromMappings>
     <ImageFromMappings id="staticplatform">
-      <ArtFile filename="../../artnem/LZ 32x32 Block.nem" offset="48960" />
-      <MapFile type="ASM" filename="../../_maps/LZ Blocks.asm" frame="3" startpal="3"/>
+      <ArtFile filename="../../Objects/61 LZ Blocks/art/LZ 32x32 Block.nem" offset="48960" />
+      <MapFile type="ASM" filename="../../Objects/61 LZ Blocks/maps/LZ Blocks.asm" frame="3" startpal="3"/>
     </ImageFromMappings>
   </Images>
   <Subtypes>

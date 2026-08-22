@@ -20,8 +20,8 @@ local improved_dac_driver_compression = false
 local common = require "build_tools.lua.common"
 
 -- Produce PCM and DPCM data.
-common.convert_pcm_files_in_directory("sound/dac/pcm")
-common.convert_dpcm_files_in_directory("sound/dac/dpcm")
+common.convert_pcm_files_in_directory("Sound/dac/pcm")
+common.convert_dpcm_files_in_directory("Sound/dac/dpcm")
 
 -- Build the ROM.
 local compression = improved_dac_driver_compression and "kosinski-optimised" or "kosinski"

@@ -66,7 +66,7 @@ zBankSwitchLoop:
 ; ===========================================================================
 	ensure1byteoffset 10h
 zDACDecodeTbl:
-	binclude "sound/dac/dpcm/deltas.bin"
+	binclude "Sound/dac/dpcm/deltas.bin"
 
 zCheckForSamples:
 	ld	hl,zDAC_Sample			; Load the address of next sample.
@@ -220,9 +220,9 @@ zTimpani_Pitch = $+4
 	zPCMMetadata zDAC_Timpani
 
 ; DPCM data
-zDAC_Kick:	include "sound/dac/dpcm/generated/kick.inc"
-zDAC_Snare:	include "sound/dac/dpcm/generated/snare.inc"
-zDAC_Timpani:	include "sound/dac/dpcm/generated/timpani.inc"
+zDAC_Kick:	include "Sound/dac/dpcm/generated/kick.inc"
+zDAC_Snare:	include "Sound/dac/dpcm/generated/snare.inc"
+zDAC_Timpani:	include "Sound/dac/dpcm/generated/timpani.inc"
 
 	if MOMPASS==2
 		if $ > z80_stack

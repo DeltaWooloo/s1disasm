@@ -12,7 +12,7 @@ namespace S1ObjectDefinitions.SYZ
 
 		public override void Init(ObjectData data)
 		{
-			img = (ObjectHelper.MapASMToBmp(ObjectHelper.OpenArtFile("../../artnem/SYZ Large Spikeball.nem", CompressionType.Nemesis), "../../_maps/Big Spiked Ball.asm", 0, 0));
+			img = (ObjectHelper.MapASMToBmp(ObjectHelper.OpenArtFile("../../Objects/58 SYZ Big Spiked Ball/art/SYZ Large Spikeball.nem", CompressionType.Nemesis), "../../Objects/58 SYZ Big Spiked Ball/maps/Big Spiked Ball.asm", 0, 0));
 		}
 
 		public override ReadOnlyCollection<byte> Subtypes

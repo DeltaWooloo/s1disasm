@@ -12,16 +12,16 @@ namespace S1ObjectDefinitions.MZ
 
 		public override void Init(ObjectData data)
 		{
-			byte[] blocks = ObjectHelper.OpenArtFile("../../artnem/MZ Metal Blocks.nem", CompressionType.Nemesis);
+			byte[] blocks = ObjectHelper.OpenArtFile("../../Zones/Marble Zone/art/MZ Metal Blocks.nem", CompressionType.Nemesis);
 			byte[] padding = new byte[0x4360-blocks.Length];
-			byte[] spikes = ObjectHelper.OpenArtFile("../../artnem/Spikes.nem", CompressionType.Nemesis);
+			byte[] spikes = ObjectHelper.OpenArtFile("../../Objects/36 Spikes/art/Spikes.nem", CompressionType.Nemesis);
 			List<byte> tmpartfile = new List<byte>();
 			tmpartfile.AddRange(blocks);
 			tmpartfile.AddRange(padding);
 			tmpartfile.AddRange(spikes);
 			byte[] artfile = tmpartfile.ToArray();
 			for (int i = 0; i < labels.Length; i++)
-				imgs.Add(ObjectHelper.MapASMToBmp(artfile, "../../_maps/Sideways Stomper.asm", labels[i], 0));
+				imgs.Add(ObjectHelper.MapASMToBmp(artfile, "../../Objects/45 Unused - MZ Sideways Stomper/maps/Sideways Stomper.asm", labels[i], 0));
 		}
 
 		public override ReadOnlyCollection<byte> Subtypes
