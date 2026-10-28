@@ -272,7 +272,7 @@ local function hash_to_string_literal(hash)
 end
 
 local function get_directory_contents_changed(directory, base_extension, replacement_extensions, custom_hashes)
-	local lua_file_path = directory .. "/generated/hashes.lua"
+	local lua_file_path = directory .. "/Generated/hashes.lua"
 
 	local hashes = load_hashes(lua_file_path)
 
@@ -309,7 +309,7 @@ local function get_directory_contents_changed(directory, base_extension, replace
 
 		local function output_file_missing()
 			for _, replacement_extension in ipairs(replacement_extensions) do
-				local output_file_path = directory .. "/generated/" .. filename .. replacement_extension
+				local output_file_path = directory .. "/Generated/" .. filename .. replacement_extension
 
 				if not file_exists(output_file_path) then
 					return true
@@ -629,8 +629,8 @@ end
 local function convert_wav_files_in_directory(directory, extension, callback, custom_hashes, ...)
 	for _, filename_stem in ipairs(get_directory_contents_changed(directory, ".wav", {extension, ".inc"}, custom_hashes)) do
 		local input_file_path = directory .. "/" .. filename_stem .. ".wav"
-		local output_file_path = directory .. "/generated/" .. filename_stem .. extension
-		local inc_file_path = directory .. "/generated/" .. filename_stem .. ".inc"
+		local output_file_path = directory .. "/Generated/" .. filename_stem .. extension
+		local inc_file_path = directory .. "/Generated/" .. filename_stem .. ".inc"
 
 		print("Converting WAV file '" .. input_file_path .. "'...")
 

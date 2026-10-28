@@ -1,7 +1,9 @@
 *.asm		text
+*.map		text
+*.ani		text
+*.dplc		text
 *.txt		text
 *.xml		text
 *.cs		text
-*.cpp		text
 *.ini		text
 *.bin		binary

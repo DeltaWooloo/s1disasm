@@ -22,10 +22,10 @@ sonic.p
 s1built.bin
 s1built.prev.bin
 
-# Automatically-generated (D)PCM data.
-Sound/dac/dpcm/generated/*.inc
-Sound/dac/dpcm/generated/*.dpcm
-Sound/dac/dpcm/generated/hashes.lua
-Sound/dac/pcm/generated/*.inc
-Sound/dac/pcm/generated/*.pcm
-Sound/dac/pcm/generated/hashes.lua
+# Automatically-Generated (D)PCM data.
+Sound/DAC/DPCM/Generated/*.inc
+Sound/DAC/DPCM/Generated/*.dpcm
+Sound/DAC/DPCM/Generated/hashes.lua
+Sound/DAC/PCM/Generated/*.inc
+Sound/DAC/PCM/Generated/*.pcm
+Sound/DAC/PCM/Generated/hashes.lua
